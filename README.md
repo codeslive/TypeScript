@@ -200,7 +200,7 @@ console.log(i.gender === Gender.Male); //true
 
 ### 3. TS的编译选项（tsconfig.json）
 
-```json
+```javascript
 {
   /* 
       tsconfig.json 是ts编译器的配置文件，ts编译器可以更具它的信息来对代码进行编译
